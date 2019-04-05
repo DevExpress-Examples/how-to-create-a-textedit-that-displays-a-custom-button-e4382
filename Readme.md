@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/TextEdit_example/MainPage.xaml) (VB: [MainPage.xaml](./VB/TextEdit_example/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/TextEdit_example/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/TextEdit_example/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/TextEdit_example/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/TextEdit_example/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to Create a TextEdit That Displays a Custom Button
 
